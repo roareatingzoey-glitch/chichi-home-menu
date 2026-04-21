@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useEffect } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { menuData, type Meal, type Ingredient } from './menu-data';
 import { useShoppingCart } from './hooks/use-shopping-cart';
 import { ShoppingPanel } from './components/shopping-panel';

@@ -312,14 +312,14 @@ export const menuData: Meal[] = [
   {
     categoryCn: '甜品',
     categoryFr: 'Desserts',
-    nameCn: 'Yaomade 华夫饼',
+    nameCn: ' 华夫饼',
     nameFr: 'Gaufre',
     ingredients: [{ cn: '面粉', fr: 'farine' }],
   },
   {
     categoryCn: '甜品',
     categoryFr: 'Desserts',
-    nameCn: 'Yaomade 可丽饼',
+    nameCn: '可丽饼',
     nameFr: 'Crêpe',
     ingredients: [{ cn: '面粉', fr: 'farine' }],
   },
@@ -390,7 +390,7 @@ export const menuData: Meal[] = [
   {
     categoryCn: '饮品',
     categoryFr: 'Boissons',
-    nameCn: 'yaomade拿铁',
+    nameCn: '拿铁',
     nameFr: 'Latte',
     ingredients: [{ cn: '咖啡', fr: 'café' }],
   },
